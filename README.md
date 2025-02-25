@@ -1,7 +1,7 @@
 # 🐺 The Midnight Hunt
 
 ## 📜 Description
-**Shepherd's Last Stand** est un jeu de défense où vous incarnez un berger armé qui doit protéger son troupeau contre les attaques nocturnes de loups affamés. Gérez vos ressources, achetez et équipez différentes armes, et survivez aussi longtemps que possible.
+**SThe Midnight Hunt** est un jeu de défense où vous incarnez un berger armé qui doit protéger son troupeau contre les attaques nocturnes de loups affamés. Gérez vos ressources, achetez et équipez différentes armes, et survivez aussi longtemps que possible.
 
 ## 🎮 Gameplay
 - Pendant la journée, préparez votre défense et achetez de nouvelles armes avec l'or gagné en éliminant les loups.
